@@ -1,1 +1,1 @@
-FROM ngnix:latest
+FROM ngnix:latest 
